@@ -88,13 +88,6 @@ npm run dev
 
 ## 🔧 Technical Details
 
-### Smart Contract
-
-- Program ID: [YOUR_PROGRAM_ID]
-- Token Mints:
-  - Gold: [GOLD_TOKEN_MINT]
-  - Cannon: [CANNON_TOKEN_MINT]
-  - Rum: [RUM_TOKEN_MINT]
 
 ### Architecture
 
@@ -127,6 +120,4 @@ Tweet about your experience:
 ⚔️ Battle pirates and collect treasure in this epic Web3 game
 ⚡ Lightning fast gameplay thanks to Gorbagana
 
-Try it now: [YOUR_DEMO_URL]
 
-@sarv_shaktimaan @lex_node #GorbaganaTestnet
